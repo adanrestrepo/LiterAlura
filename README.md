@@ -27,6 +27,8 @@ Lombok	Reducción de boilerplate en clases
 Jackson	Serialización/deserialización JSON
 
 <img width="408" height="358" alt="Captura1" src="https://github.com/user-attachments/assets/9d8cc8a2-fffd-49d9-bbf3-17ea081b5f9d" />
+<img width="1191" height="753" alt="image" src="https://github.com/user-attachments/assets/615e8315-5274-4d66-97c8-57a319807fc7" />
+
 
 
 

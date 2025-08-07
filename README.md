@@ -26,6 +26,8 @@ Hibernate	ORM para persistencia de entidades
 Lombok	Reducción de boilerplate en clases
 Jackson	Serialización/deserialización JSON
 
+<img width="408" height="358" alt="Captura1" src="https://github.com/user-attachments/assets/9d8cc8a2-fffd-49d9-bbf3-17ea081b5f9d" />
+
 
 
 

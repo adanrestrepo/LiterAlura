@@ -29,6 +29,24 @@ Jackson	Serialización/deserialización JSON
 <img width="408" height="358" alt="Captura1" src="https://github.com/user-attachments/assets/9d8cc8a2-fffd-49d9-bbf3-17ea081b5f9d" />
 <img width="1191" height="753" alt="image" src="https://github.com/user-attachments/assets/615e8315-5274-4d66-97c8-57a319807fc7" />
 
+ESTRUCTURA DEL PROYECTO
+src/
+├── main/
+│   ├── java/com/adan/literalura/
+│   │   ├── model/         # Entidades JPA
+│   │   ├── repository/    # Repositorios CRUD
+│   │   ├── dto/           # Data Transfer Objects
+│   │   ├── principal/     # Lógica principal
+│   │   └── LiteraluraApplication.java
+│   └── resources/
+│       └── application.properties
+
+👤 Autor
+Desarrollado por Adan, apasionado por la programación backend, la optimización de procesos productivos y la exploración de estructuras poéticas.
+
+📄 Licencia
+Este proyecto está bajo la licencia MIT. Puedes consultarla aquí.
+
 
 
 
